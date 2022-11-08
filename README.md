@@ -3,4 +3,5 @@
 
 ##Language
   All the codes are coded using python
- 
+
+its used to calculate two numbers
